@@ -1,4 +1,4 @@
-- **Описание:** Анализ данных по продажам для магазина, выявление самого популярного продукта.  
-- **Что сделано:**  
-- Очистка и обработка данных о продажах (Python: Pandas, NumPy).  
-- Создание статистических отчетов (Matplotlib, Seaborn).  
+- **Description:** Analyzing sales data for the store, identifying the most popular product. 
+- **What's done:** 
+- Cleaning and processing of sales data (Python: Pandas, NumPy). 
+- Creation of statistical reports (Matplotlib, Seaborn).
